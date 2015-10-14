@@ -10,6 +10,8 @@
     <version>00.00-SNAPSHOT</version>
     <modules>
         <module>webapps</module>
+        <module>services</module>
+        <module>repositories</module>
     </modules>
 
 
