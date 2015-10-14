@@ -6,7 +6,11 @@
 
     <groupId>com.outfitum</groupId>
     <artifactId>server</artifactId>
+    <packaging>pom</packaging>
     <version>00.00-SNAPSHOT</version>
+    <modules>
+        <module>webapps</module>
+    </modules>
 
 
     <properties>
