@@ -11,5 +11,13 @@
 
     <artifactId>services-impl</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.outfitum</groupId>
+            <artifactId>services-api</artifactId>
+            <version>00.00-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

@@ -12,4 +12,12 @@
     <artifactId>webapps</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.outfitum</groupId>
+            <artifactId>services-impl</artifactId>
+            <version>00.00-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
